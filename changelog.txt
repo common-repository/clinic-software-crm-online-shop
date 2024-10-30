@@ -1,0 +1,6 @@
+*** Clinic Software CRM Online Shop Changelog ***
+2024-06-27 - version 1.0.1
+ * Fixed bug related to the plugin slug
+ * Tested with latest WordPress version
+2023-11-25 - version 1.0.0
+ * Initial release
